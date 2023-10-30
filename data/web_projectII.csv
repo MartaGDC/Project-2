@@ -1,105 +1,105 @@
-titles,authors,genres,editorial,countries,languages,orig_language,pages,dates
-Todo vuelve (Todo arde 2),"Gómez-Jurado, Juan","['Género policíaco y misterio', 'Obra de espionaje y espías']",B,España,Castellano,Castellano,608,24-10-2023
-El Infierno,"Mola, Carmen","['Ficción histórica', 'Obra de misterio y suspense', 'Ficción moderna y contemporanea']",Editorial Planeta,España,Castellano,Castellano,480,04-10-2023
-La armadura de la luz (Saga Los pilares de la Tierra 4),"Follett, Ken","['Ficción de las guerras napoleónicas', 'Ficción histórica']",PLAZA & JANES,España,Castellano,Inglés,832,26-09-2023
-La chica del verano,La Vecina Rubia,['Ficción moderna y contemporanea'],Libros Cúpula,España,Castellano,Castellano,424,18-10-2023
+title,author,genre,editorial,country,language,orig_language,pages,date,price
+Todo vuelve (Todo arde 2),"Gómez-Jurado, Juan","['Género policíaco y misterio', 'Obra de espionaje y espías']",B,España,Castellano,Castellano,608,24-10-2023,22.90€
+El Infierno,"Mola, Carmen","['Ficción histórica', 'Obra de misterio y suspense', 'Ficción moderna y contemporanea']",Editorial Planeta,España,Castellano,Castellano,480,04-10-2023,22.90€
+La armadura de la luz (Saga Los pilares de la Tierra 4),"Follett, Ken","['Ficción de las guerras napoleónicas', 'Ficción histórica']",PLAZA & JANES,España,Castellano,Inglés,832,26-09-2023,24.90€
+La chica del verano,La Vecina Rubia,['Ficción moderna y contemporanea'],Libros Cúpula,España,Castellano,Castellano,424,18-10-2023,19.90€
 El Lirio Blanco,"Goscinny, René / Fabcaro","['HUMOR', 'Edad de interés: a partir de 10 años', 'Cómics y novelas gráficas']",Editorial Bruño,Castellano,Francés,"                                         295
                                          x                                         225
-                                     mm.",48,26-10-2023
-EVANGELIO 2024 LETRA PEQUEÑA BOLSILLO,"MARTINEZ PUCHE/ ALVAREZ,LUIS/ DEL CERRO",['Religión y creencias'],EDIBESA,España,Castellano,Castellano,512,01-06-2023
-El problema final,"Pérez-Reverte, Arturo","['Islas griegas', 'Ficción moderna y contemporanea', 'Género policíaco y misterio']",ALFAGUARA,España,Castellano,Castellano,328,05-09-2023
-Hábitos atómicos,"Clear, James","['Mente, cuerpo y espíritu: pensamiento y práctica', 'Afirmación personal, motivación y autoestima', 'APLICACIONES EMPRESARIALES', 'Estrategias y políticas educativas', 'Autoayuda y desarrollo personal']",Diana Editorial,España,Castellano,Inglés,336,08-09-2020
-No te veré morir,"Muñoz Molina, Antonio","['Ficción histórica', 'Nueva York', 'Ficción moderna y contemporanea']",Seix Barral,España,Castellano,Castellano,240,30-08-2023
-Mirafiori,"Jabois, Manuel",['Ficción moderna y contemporanea'],ALFAGUARA,España,Castellano,Castellano,208,05-10-2023
-Dios - La ciencia - Las pruebas,"Bolloré, Michel-Yves / Bonnassies, Olivier","['Francia', 'CIENCIA: CUESTIONES GENERALES']",Editorial Funambulista,España,Castellano,Francés,584,04-10-2023
-EVANGELIO 2024 LETRA GRANDE,"MARTINEZ PUCHE/ ALVAREZ,LUIS/ DEL CERRO",['Religión y creencias'],EDIBESA,España,Castellano,Castellano,512,01-06-2023
-La mujer que soy,"Spears, Britney","['Música: estilos y géneros', 'Actores e intérpretes', 'Autobiografía: arte y espectáculo']",PLAZA & JANES,España,Castellano,Inglés,280,26-10-2023
-Bocabesada,"Val, Juan del",['Ficción moderna y contemporanea'],Espasa,España,Castellano,Castellano,288,27-09-2023
-JESUS ES EL SEÑOR (NUEVA ED.),EDICE,['Estudios generales'],EDICE ED.,España,Castellano,Castellano,168,01-07-2021
-Le dedico mi silencio,"Vargas Llosa, Mario","['Perú', 'Música del mundo', 'Ficción moderna y contemporanea']",ALFAGUARA,España,Castellano,Castellano,312,26-10-2023
-Mañana y tarde,"Fosse, Jon","['Noruega', 'Ficción moderna y contemporanea']",Nórdica Libros,España,Castellano,Noruego,112,02-10-2023
-Cómo hacer que te pasen cosas buenas,"Rojas Estapé, Marian",['Autoayuda y desarrollo personal'],Espasa,España,Castellano,Castellano,232,09-10-2018
-Invisible,"Moreno, Eloy","['Edad de interés: a partir de 12 años', 'Cuestiones personales y sociales: autoconocimiento y autoestima (infantil/juvenil)', 'Ficción general (infantil/juvenil)']",Nube de Tinta,España,Castellano,Inglés,304,01-02-2018
-El Hombre Iluminado (Novela Secreta 4),"Sanderson, Brandon",['Fantasía'],Nova,España,Castellano,Inglés,544,19-10-2023
-Holly (Edición en español),"King, Stephen","['Cuentos de terror y fantasmas', 'Obra de misterio y suspense']",PLAZA & JANES,España,Castellano,Inglés,624,21-09-2023
-El viaje de Shuna,"Miyazaki, Hayao",['Novelas gráficas'],Salamandra Graphic,España,Castellano,Japonés,160,19-10-2023
-Los inocentes,"Oruña, María",['Género policíaco y misterio'],Ediciones Destino,España,Castellano,Castellano,464,13-09-2023
-Twisted 3. Twisted Hate,"Huang, Ana","['Narrativa romántica', 'Ficción erótica', 'Ficción moderna y contemporanea', 'Edad de interés: a partir de 14 años', 'Ficción general (infantil/juvenil)']",Crossbooks,España,Castellano,Inglés,608,25-10-2023
-CALENDARIO LITÚRGICO PASTORAL 2023-2024,EDICE,['Estudios generales'],CONFERENCIA EPISCOPAL ESPAÑOLA,España,Castellano,Castellano,404,01-09-2023
-TACO 2024 SAGADO CORAZON JESUS CLASICO,AA.VV,"['Anuarios, almanaques, publicaciones anuales']",MENSAJERO EDICIONES,España,Castellano,Castellano,365,01-07-2023
-Los papeles de Admunsen,"Vázquez Montalbán, Manuel",['Ficción moderna y contemporanea'],Navona Editorial,España,Castellano,Castellano,464,16-10-2023
-Los siete maridos de Evelyn Hugo,"Jenkins Reid, Taylor",['Ficción histórica'],Umbriel,España,Castellano,Inglés,384,04-02-2020
-MANIAC,"Labatut, Benjamín","['Divulgación científica', 'Invenciones e inventores', 'Crímenes reales: descubrimientos/históricas/científicas']",Editorial Anagrama,España,Castellano,Castellano,400,25-10-2023
-La utilidad de lo inútil,"Ordine, Nuccio",['Prosa: no ficción'],Acantilado,España,Castellano,Italiano,176,14-11-2013
-Encuentra tu persona vitamina,"Rojas Estapé, Marian",['Autoayuda y desarrollo personal'],Espasa,España,Castellano,Castellano,328,25-08-2021
-Los contemplativos,"d'Ors, Pablo",['Ficción moderna y contemporanea'],Galaxia Gutenberg,España,Castellano,Castellano,432,27-09-2023
-Diario de Greg 18 - Descerebrados,"Kinney, Jeff","['Relatos sobre la escuela (infantil/juvenil)', 'Caricaturas e historietas (infantil/juvenil)', 'Relatos de humor (infantil/juvenil)']",Molino,España,Castellano,Inglés,224,26-10-2023
-El sutil arte de que (casi todo) te importe una mierda,"Manson, Mark","['Autoayuda y desarrollo personal', 'Afirmación personal, motivación y autoestima']",HarperCollins,España,Castellano,Inglés,240,04-04-2018
-Trilogía,"Fosse, Jon","['Noruega', 'Europa del Norte, Escandinavia', 'Narrativa romántica adulta y contemporánea', 'Obra de misterio y suspense', 'Ficción moderna y contemporanea', 'EUROPA', 'Literatura y estudios literarios']",De Conatus,España,Castellano,Noruego nynorsk,168,07-11-2018
-El Principito (edición oficial),"Saint-Exupéry, Antoine de","['Edad de interés: a partir de 10 años', 'Cuestiones personales y sociales: autoconocimiento y autoestima (infantil/juvenil)', 'Ficción clásica (infantil/juvenil)']",Salamandra Infantil y Juvenil,España,Castellano,Francés,96,15-01-2008
-El monje que vendió su Ferrari,"Sharma, Robin","['Afirmación personal, motivación y autoestima', 'Mente, cuerpo y espíritu: meditación y visualización']",DEBOLSILLO,España,Castellano,Inglés,216,22-03-2012
-Todo lo que sé sobre el amor,"Alderton, Dolly","['Autobiografía: general', 'Ficción moderna y contemporanea']",Booket,España,Castellano,Inglés,384,03-03-2021
-El poder del ahora,"Tolle, Eckhart","['Mente, cuerpo y espíritu: pensamiento y práctica']",Gaia Ediciones,España,Castellano,Inglés,220,01-09-2007
-La Revolución francesa contada para escépticos,"Eslava Galán, Juan","['Historia social y cultural', 'Historia: acontecimientos y temas específicos', 'c. 1700-c. 1800', 'Revoluciones, levantamientos y rebeliones']",Editorial Planeta,España,Castellano,Castellano,464,11-10-2023
-Las hermanas Jacobs (Quirke & Strafford 1),"Black, Benjamin","['Obra de misterio y suspense', 'Género policíaco y misterio']",ALFAGUARA,España,Castellano,Inglés,336,05-10-2023
-Romper el hielo,"Grace, Hannah","['Patinaje sobre hielo', 'Narrativa romántica adulta y contemporánea']",B,España,Castellano,Inglés,464,28-09-2023
-El hombre en busca de sentido,"Frankl, Viktor Emil","['El Holocausto', 'Psicoterapia', 'c. 1939-c. 1945 (incluye la Segunda Guerra Mundial)', 'Español / Castellano', 'Psicología']",Herder Editorial,España,Castellano,Alemán,168,04-12-2015
-Emperador de Roma,"Beard, Mary","['Antigua Roma', 'Historia antigua: hasta c. 500 e. c.']",Editorial Crítica,España,Castellano,Castellano,592,25-10-2023
-Las despedidas,"Bergareche Mendoza, Jacobo","['Islas Baleares, Comunidad Autónoma de', 'Ficción moderna y contemporanea']",Libros del Asteroide,España,Castellano,Castellano,168,02-10-2023
-El viento conoce mi nombre,"Allende, Isabel",['Ficción moderna y contemporanea'],PLAZA & JANES,España,Castellano,Castellano,352,06-06-2023
-Las madres (La novia gitana 4),"Mola, Carmen",['Género policíaco y misterio'],DEBOLSILLO,España,Castellano,Castellano,464,31-08-2023
-La cadena de espinas,"Clare, Cassandra","['Relatos románticos y de relaciones interpersonales (infantil/juvenil)', 'Edad de interés: a partir de 14 años', 'Fantasía y realismo mágico (infantil/juvenil)']",Destino Infantil & Juvenil,España,Castellano,Inglés,832,25-10-2023
-Los misterios de la taberna Kamogawa (La taberna Kamogawa 1),"Kashiwai, Hisashi","['Japón', 'Cocina nacional y regional', 'Género policíaco y misterio']",SALAMANDRA,España,Castellano,Japonés,192,01-06-2023
-Un amor,"Mesa, Sara","['Violencia en la sociedad', 'Comunidades rurales', 'Cuestiones y procesos sociales']",Editorial Anagrama,España,Castellano,Castellano,192,02-09-2020
-Te di ojos y miraste las tinieblas,"Solà Saez, Irene","['Fantasía', 'MITOS Y LEYENDAS NARRADOS COMO FICCIÓN', 'Ficción moderna y contemporanea']",Editorial Anagrama,España,Castellano,Catalán,176,30-08-2023
-Hamnet,"O'Farrell, Maggie","['Ficción histórica', 'Inglaterra', 'Ficción moderna y contemporanea']",Libros del Asteroide,España,Castellano,Inglés,352,22-02-2021
-Los diarios del opio,"Jiménez, David","['Biografía: literaria', 'Biografía: general', 'Biografía e historias relaes', 'Asia Oriental, Lejano Oriente', 'Literatura de viajes']",Editorial Ariel,España,Castellano,Castellano,272,31-05-2023
-One Piece nº 105,"Oda, Eiichiro","['Cómics y novelas gráficas', 'Edad de interés: a partir de 8 años', 'Novelas gráficas: manga']",Planeta Cómic,España,Castellano,Japonés,192,18-10-2023
-La mala costumbre,"Portero, Alana S.","['Madrid, Comunidad de', 'Ficción moderna y contemporanea']",Seix Barral,España,Castellano,Castellano,256,03-05-2023
-10.000 millas para encontrarte (Bali 2),"Ron, Mercedes",['Relatos románticos y de relaciones interpersonales (infantil/juvenil)'],MONTENA,España,Castellano,Castellano,480,28-09-2023
-La novia gitana (La novia gitana 1),"Mola, Carmen",['Ficción moderna y contemporanea'],DEBOLSILLO,España,Castellano,Castellano,408,17-06-2021
-Nada es verdad,"Raimo, Veronica","['Italia', 'Ficción moderna y contemporanea']",Libros del Asteroide,España,Castellano,Italiano,216,25-09-2023
-Tokio blues,"Murakami, Haruki",['Ficción moderna y contemporanea'],Maxi-Tusquets,España,Castellano,Japonés,384,01-05-2007
-Lecciones,"McEwan, Ian","['Historia: acontecimientos y temas específicos', 'Historia del siglo xxi: c. 2000-', 'Ficción moderna y contemporanea']",Editorial Anagrama,España,Castellano,Inglés,584,06-09-2023
-Las aventuras de Dani y Evan 8. El clan de los Lobosaurios,Las aventuras de Dani y Evan,"['Misterios, lo sobrenatural, monstruos y seres mitológicos (infantil/juvenil)', 'Ficción de crimen y misterio (infantil/juvenil)', 'Relatos de aventuras (infantil/juvenil)', 'Edad de interés: a partir de 6 años', 'Dinosaurios y el mundo prehistórico (infantil/juvenil)']",Destino Infantil & Juvenil,España,Castellano,Castellano,144,11-10-2023
-"Padre Rico, padre Pobre (edición actualizada)","Kiyosaki, Robert T.","['Finanzas personales', 'Economía']",DEBOLSILLO,España,Castellano,Inglés,384,01-06-2023
-El pacto del agua,"Verghese, Abraham","['Siglo xx', 'Ficción moderna y contemporanea', 'Sagas']",SALAMANDRA,España,Castellano,Inglés,784,05-10-2023
-Este dolor no es mío,"Wolynn, Mark",['Psicoterapia'],Gaia Ediciones,España,Castellano,Inglés,288,15-09-2017
-MITOS GRIEGOS N/E (CUCAÑA)**,"Anton Garcia, Francesc / Angelidou, Maria / Vasilev, Svetlin",['FICCIÓN E HISTORIAS REALES INFANTILES Y JUVENILES'],Editorial Vicens Vives,España,Castellano,Castellano,160,29-05-2023
-Lo que América le debe a España,"Gullo Omodeo, Marcelo",['Historia'],Espasa, Tapa blanda o Bolsillo,España,Castellano,400,04-10-2023
-PREMIO EDEBÉ 2015: Mentira,"Santos Torres, Care","['FICCIÓN E HISTORIAS REALES INFANTILES Y JUVENILES', 'España', 'Español / Castellano', 'Edad de interés: a partir de 14 años']",Grupo EDEBÉ,España,Castellano,Castellano,252,20-02-2015
-El cuco de cristal,"Castillo, Javier","['Género policíaco y misterio', 'Ficción moderna y contemporanea', 'Obra de misterio y suspense']",SUMA,España,Castellano,Castellano,488,01-02-2023
+                                     mm.",48,26-10-2023,10.50€
+EVANGELIO 2024 LETRA PEQUEÑA BOLSILLO,"MARTINEZ PUCHE/ ALVAREZ,LUIS/ DEL CERRO",['Religión y creencias'],EDIBESA,España,Castellano,Castellano,512,01-06-2023,2.65€
+El problema final,"Pérez-Reverte, Arturo","['Islas griegas', 'Ficción moderna y contemporanea', 'Género policíaco y misterio']",ALFAGUARA,España,Castellano,Castellano,328,05-09-2023,21.90€
+Hábitos atómicos,"Clear, James","['Mente, cuerpo y espíritu: pensamiento y práctica', 'Afirmación personal, motivación y autoestima', 'APLICACIONES EMPRESARIALES', 'Estrategias y políticas educativas', 'Autoayuda y desarrollo personal']",Diana Editorial,España,Castellano,Inglés,336,08-09-2020,19.90€
+No te veré morir,"Muñoz Molina, Antonio","['Ficción histórica', 'Nueva York', 'Ficción moderna y contemporanea']",Seix Barral,España,Castellano,Castellano,240,30-08-2023,19.90€
+Mirafiori,"Jabois, Manuel",['Ficción moderna y contemporanea'],ALFAGUARA,España,Castellano,Castellano,208,05-10-2023,18.90€
+Dios - La ciencia - Las pruebas,"Bolloré, Michel-Yves / Bonnassies, Olivier","['Francia', 'CIENCIA: CUESTIONES GENERALES']",Editorial Funambulista,España,Castellano,Francés,584,04-10-2023,24.90€
+EVANGELIO 2024 LETRA GRANDE,"MARTINEZ PUCHE/ ALVAREZ,LUIS/ DEL CERRO",['Religión y creencias'],EDIBESA,España,Castellano,Castellano,512,01-06-2023,4.60€
+La mujer que soy,"Spears, Britney","['Música: estilos y géneros', 'Actores e intérpretes', 'Autobiografía: arte y espectáculo']",PLAZA & JANES,España,Castellano,Inglés,280,26-10-2023,21.90€
+Bocabesada,"Val, Juan del",['Ficción moderna y contemporanea'],Espasa,España,Castellano,Castellano,288,27-09-2023,20.90€
+JESUS ES EL SEÑOR (NUEVA ED.),EDICE,['Estudios generales'],EDICE ED.,España,Castellano,Castellano,168,01-07-2021,16.50€
+Le dedico mi silencio,"Vargas Llosa, Mario","['Perú', 'Música del mundo', 'Ficción moderna y contemporanea']",ALFAGUARA,España,Castellano,Castellano,312,26-10-2023,20.90€
+Mañana y tarde,"Fosse, Jon","['Noruega', 'Ficción moderna y contemporanea']",Nórdica Libros,España,Castellano,Noruego,112,02-10-2023,18.00€
+Cómo hacer que te pasen cosas buenas,"Rojas Estapé, Marian",['Autoayuda y desarrollo personal'],Espasa,España,Castellano,Castellano,232,09-10-2018,19.90€
+Invisible,"Moreno, Eloy","['Edad de interés: a partir de 12 años', 'Cuestiones personales y sociales: autoconocimiento y autoestima (infantil/juvenil)', 'Ficción general (infantil/juvenil)']",Nube de Tinta,España,Castellano,Inglés,304,01-02-2018,15.95€
+El Hombre Iluminado (Novela Secreta 4),"Sanderson, Brandon",['Fantasía'],Nova,España,Castellano,Inglés,544,19-10-2023,26.90€
+Holly (Edición en español),"King, Stephen","['Cuentos de terror y fantasmas', 'Obra de misterio y suspense']",PLAZA & JANES,España,Castellano,Inglés,624,21-09-2023,23.90€
+El viaje de Shuna,"Miyazaki, Hayao",['Novelas gráficas'],Salamandra Graphic,España,Castellano,Japonés,160,19-10-2023,24.00€
+Los inocentes,"Oruña, María",['Género policíaco y misterio'],Ediciones Destino,España,Castellano,Castellano,464,13-09-2023,21.90€
+Twisted 3. Twisted Hate,"Huang, Ana","['Narrativa romántica', 'Ficción erótica', 'Ficción moderna y contemporanea', 'Edad de interés: a partir de 14 años', 'Ficción general (infantil/juvenil)']",Crossbooks,España,Castellano,Inglés,608,25-10-2023,17.95€
+CALENDARIO LITÚRGICO PASTORAL 2023-2024,EDICE,['Estudios generales'],CONFERENCIA EPISCOPAL ESPAÑOLA,España,Castellano,Castellano,404,01-09-2023,16.50€
+TACO 2024 SAGADO CORAZON JESUS CLASICO,AA.VV,"['Anuarios, almanaques, publicaciones anuales']",MENSAJERO EDICIONES,España,Castellano,Castellano,365,01-07-2023,5.10€
+Los papeles de Admunsen,"Vázquez Montalbán, Manuel",['Ficción moderna y contemporanea'],Navona Editorial,España,Castellano,Castellano,464,16-10-2023,25.00€
+Los siete maridos de Evelyn Hugo,"Jenkins Reid, Taylor",['Ficción histórica'],Umbriel,España,Castellano,Inglés,384,04-02-2020,17.00€
+MANIAC,"Labatut, Benjamín","['Divulgación científica', 'Invenciones e inventores', 'Crímenes reales: descubrimientos/históricas/científicas']",Editorial Anagrama,España,Castellano,Castellano,400,25-10-2023,21.90€
+La utilidad de lo inútil,"Ordine, Nuccio",['Prosa: no ficción'],Acantilado,España,Castellano,Italiano,176,14-11-2013,10.00€
+Encuentra tu persona vitamina,"Rojas Estapé, Marian",['Autoayuda y desarrollo personal'],Espasa,España,Castellano,Castellano,328,25-08-2021,19.90€
+Los contemplativos,"d'Ors, Pablo",['Ficción moderna y contemporanea'],Galaxia Gutenberg,España,Castellano,Castellano,432,27-09-2023,23.00€
+Diario de Greg 18 - Descerebrados,"Kinney, Jeff","['Relatos sobre la escuela (infantil/juvenil)', 'Caricaturas e historietas (infantil/juvenil)', 'Relatos de humor (infantil/juvenil)']",Molino,España,Castellano,Inglés,224,26-10-2023,15.00€
+El sutil arte de que (casi todo) te importe una mierda,"Manson, Mark","['Autoayuda y desarrollo personal', 'Afirmación personal, motivación y autoestima']",HarperCollins,España,Castellano,Inglés,240,04-04-2018,16.90€
+Trilogía,"Fosse, Jon","['Noruega', 'Europa del Norte, Escandinavia', 'Narrativa romántica adulta y contemporánea', 'Obra de misterio y suspense', 'Ficción moderna y contemporanea', 'EUROPA', 'Literatura y estudios literarios']",De Conatus,España,Castellano,Noruego nynorsk,168,07-11-2018,16.90€
+El Principito (edición oficial),"Saint-Exupéry, Antoine de","['Edad de interés: a partir de 10 años', 'Cuestiones personales y sociales: autoconocimiento y autoestima (infantil/juvenil)', 'Ficción clásica (infantil/juvenil)']",Salamandra Infantil y Juvenil,España,Castellano,Francés,96,15-01-2008,6.95€
+El monje que vendió su Ferrari,"Sharma, Robin","['Afirmación personal, motivación y autoestima', 'Mente, cuerpo y espíritu: meditación y visualización']",DEBOLSILLO,España,Castellano,Inglés,216,22-03-2012,10.95€
+Todo lo que sé sobre el amor,"Alderton, Dolly","['Autobiografía: general', 'Ficción moderna y contemporanea']",Booket,España,Castellano,Inglés,384,03-03-2021,9.95€
+El poder del ahora,"Tolle, Eckhart","['Mente, cuerpo y espíritu: pensamiento y práctica']",Gaia Ediciones,España,Castellano,Inglés,220,01-09-2007,10.00€
+La Revolución francesa contada para escépticos,"Eslava Galán, Juan","['Historia social y cultural', 'Historia: acontecimientos y temas específicos', 'c. 1700-c. 1800', 'Revoluciones, levantamientos y rebeliones']",Editorial Planeta,España,Castellano,Castellano,464,11-10-2023,21.90€
+Las hermanas Jacobs (Quirke & Strafford 1),"Black, Benjamin","['Obra de misterio y suspense', 'Género policíaco y misterio']",ALFAGUARA,España,Castellano,Inglés,336,05-10-2023,20.90€
+Romper el hielo,"Grace, Hannah","['Patinaje sobre hielo', 'Narrativa romántica adulta y contemporánea']",B,España,Castellano,Inglés,464,28-09-2023,19.90€
+El hombre en busca de sentido,"Frankl, Viktor Emil","['El Holocausto', 'Psicoterapia', 'c. 1939-c. 1945 (incluye la Segunda Guerra Mundial)', 'Español / Castellano', 'Psicología']",Herder Editorial,España,Castellano,Alemán,168,04-12-2015,12.90€
+Emperador de Roma,"Beard, Mary","['Antigua Roma', 'Historia antigua: hasta c. 500 e. c.']",Editorial Crítica,España,Castellano,Castellano,592,25-10-2023,27.90€
+Las despedidas,"Bergareche Mendoza, Jacobo","['Islas Baleares, Comunidad Autónoma de', 'Ficción moderna y contemporanea']",Libros del Asteroide,España,Castellano,Castellano,168,02-10-2023,18.95€
+El viento conoce mi nombre,"Allende, Isabel",['Ficción moderna y contemporanea'],PLAZA & JANES,España,Castellano,Castellano,352,06-06-2023,22.90€
+Las madres (La novia gitana 4),"Mola, Carmen",['Género policíaco y misterio'],DEBOLSILLO,España,Castellano,Castellano,464,31-08-2023,10.95€
+La cadena de espinas,"Clare, Cassandra","['Relatos románticos y de relaciones interpersonales (infantil/juvenil)', 'Edad de interés: a partir de 14 años', 'Fantasía y realismo mágico (infantil/juvenil)']",Destino Infantil & Juvenil,España,Castellano,Inglés,832,25-10-2023,18.95€
+Los misterios de la taberna Kamogawa (La taberna Kamogawa 1),"Kashiwai, Hisashi","['Japón', 'Cocina nacional y regional', 'Género policíaco y misterio']",SALAMANDRA,España,Castellano,Japonés,192,01-06-2023,18.00€
+Un amor,"Mesa, Sara","['Violencia en la sociedad', 'Comunidades rurales', 'Cuestiones y procesos sociales']",Editorial Anagrama,España,Castellano,Castellano,192,02-09-2020,17.90€
+Te di ojos y miraste las tinieblas,"Solà Saez, Irene","['Fantasía', 'MITOS Y LEYENDAS NARRADOS COMO FICCIÓN', 'Ficción moderna y contemporanea']",Editorial Anagrama,España,Castellano,Catalán,176,30-08-2023,17.90€
+Hamnet,"O'Farrell, Maggie","['Ficción histórica', 'Inglaterra', 'Ficción moderna y contemporanea']",Libros del Asteroide,España,Castellano,Inglés,352,22-02-2021,23.95€
+Los diarios del opio,"Jiménez, David","['Biografía: literaria', 'Biografía: general', 'Biografía e historias relaes', 'Asia Oriental, Lejano Oriente', 'Literatura de viajes']",Editorial Ariel,España,Castellano,Castellano,272,31-05-2023,18.90€
+One Piece nº 105,"Oda, Eiichiro","['Cómics y novelas gráficas', 'Edad de interés: a partir de 8 años', 'Novelas gráficas: manga']",Planeta Cómic,España,Castellano,Japonés,192,18-10-2023,8.50€
+La mala costumbre,"Portero, Alana S.","['Madrid, Comunidad de', 'Ficción moderna y contemporanea']",Seix Barral,España,Castellano,Castellano,256,03-05-2023,19.00€
+10.000 millas para encontrarte (Bali 2),"Ron, Mercedes",['Relatos románticos y de relaciones interpersonales (infantil/juvenil)'],MONTENA,España,Castellano,Castellano,480,28-09-2023,18.95€
+La novia gitana (La novia gitana 1),"Mola, Carmen",['Ficción moderna y contemporanea'],DEBOLSILLO,España,Castellano,Castellano,408,17-06-2021,10.95€
+Nada es verdad,"Raimo, Veronica","['Italia', 'Ficción moderna y contemporanea']",Libros del Asteroide,España,Castellano,Italiano,216,25-09-2023,18.95€
+Tokio blues,"Murakami, Haruki",['Ficción moderna y contemporanea'],Maxi-Tusquets,España,Castellano,Japonés,384,01-05-2007,10.95€
+Lecciones,"McEwan, Ian","['Historia: acontecimientos y temas específicos', 'Historia del siglo xxi: c. 2000-', 'Ficción moderna y contemporanea']",Editorial Anagrama,España,Castellano,Inglés,584,06-09-2023,24.90€
+Las aventuras de Dani y Evan 8. El clan de los Lobosaurios,Las aventuras de Dani y Evan,"['Misterios, lo sobrenatural, monstruos y seres mitológicos (infantil/juvenil)', 'Ficción de crimen y misterio (infantil/juvenil)', 'Relatos de aventuras (infantil/juvenil)', 'Edad de interés: a partir de 6 años', 'Dinosaurios y el mundo prehistórico (infantil/juvenil)']",Destino Infantil & Juvenil,España,Castellano,Castellano,144,11-10-2023,12.95€
+"Padre Rico, padre Pobre (edición actualizada)","Kiyosaki, Robert T.","['Finanzas personales', 'Economía']",DEBOLSILLO,España,Castellano,Inglés,384,01-06-2023,10.95€
+El pacto del agua,"Verghese, Abraham","['Siglo xx', 'Ficción moderna y contemporanea', 'Sagas']",SALAMANDRA,España,Castellano,Inglés,784,05-10-2023,24.00€
+Este dolor no es mío,"Wolynn, Mark",['Psicoterapia'],Gaia Ediciones,España,Castellano,Inglés,288,15-09-2017,14.00€
+MITOS GRIEGOS N/E (CUCAÑA)**,"Anton Garcia, Francesc / Angelidou, Maria / Vasilev, Svetlin",['FICCIÓN E HISTORIAS REALES INFANTILES Y JUVENILES'],Editorial Vicens Vives,España,Castellano,Castellano,160,29-05-2023,12.90€
+Lo que América le debe a España,"Gullo Omodeo, Marcelo",['Historia'],Espasa,España,Castellano,Castellano,400,04-10-2023,21.90€
+PREMIO EDEBÉ 2015: Mentira,"Santos Torres, Care","['FICCIÓN E HISTORIAS REALES INFANTILES Y JUVENILES', 'España', 'Español / Castellano', 'Edad de interés: a partir de 14 años']",Grupo EDEBÉ,España,Castellano,Castellano,252,20-02-2015,11.95€
+El cuco de cristal,"Castillo, Javier","['Género policíaco y misterio', 'Ficción moderna y contemporanea', 'Obra de misterio y suspense']",SUMA,España,Castellano,Castellano,488,01-02-2023,20.90€
 Neurociencia del cuerpo,"Castellanos, Nazareth",['Medicina popular y salud'],Editorial Kairós SA,Castellano,Castellano,"                                         200
                                          x                                         130
-                                     mm.",1,07-09-2022
-El Monstruo de Colores. Doctor de emociones,"Llenas Serra, Anna / Llenas Serra, Anna","['Cuestiones personales y sociales: autoconocimiento y autoestima (infantil/juvenil)', 'Edad de interés: a partir de 3 años', 'Álbumes ilustrados']",Editorial Flamboyant,España,Castellano,Catalán,56,07-09-2023
-Todo lo que me ha enseñado el amor,"Javierre, Luna","['Autoayuda y desarrollo personal', 'Poesía', 'Afirmación personal, motivación y autoestima']",Ediciones Martínez Roca,España,Castellano,Castellano,208,13-09-2023
-Amanda Black 9 - El camino del ninja,"Gómez-Jurado, Juan / Montes, Bárbara","['Edad de interés: a partir de 8 años', 'Thriller (infantil/juvenil)', 'Fantasía y realismo mágico (infantil/juvenil)']",B de Blok,España,Castellano,Castellano,192,19-10-2023
-"George Steiner, el huésped incómodo","Ordine, Nuccio",['Reportajes y colección de artículos periodísticos'],Acantilado,España,Castellano,Italiano,128,11-10-2023
-El Príncipe de la Niebla,"Ruiz Zafón, Carlos",['Ficción moderna y contemporanea'],Booket,España,Castellano,Castellano,240,16-05-2007
-Vive más,"Vázquez, Marcos","['Dietética y nutrición', 'Dietas y régimen alimenticio']",GRIJALBO,España,Castellano,Castellano,304,05-10-2023
-Tu cuerpo es tuyo,"Serrano, Lucía","['Cuestiones personales y sociales: sexualidad y relaciones interpersonales (infantil/juvenil)', 'Cuestiones personales y sociales: cuerpo y salud (infantil/juvenil)', 'Álbumes ilustrados']",NubeOcho,España,Castellano,Castellano,40,11-10-2021
-Todas las personas que fui,"Casas, Alfonso","['Novela gráfica y manga como obra de arte', 'Novelas gráficas']",Random Cómic,España,Castellano,Castellano,208,26-10-2023
-ARTA en la jungla máxima (Arta Game 5),"Game, Arta","['Ficción general (infantil/juvenil)', 'Relatos de humor (infantil/juvenil)', 'Relatos de aventuras (infantil/juvenil)']",MONTENA,España,Castellano,Castellano,192,11-10-2023
-"La Babilonia, 1580","Martín Gijón, Susana","['Ficción moderna y contemporanea', 'Aventura histórica', 'Misterios históricos']",ALFAGUARA,España,Castellano,Castellano,464,29-08-2023
-Los chicos de Biloxi,"Grisham, John",['Obra de suspense político y judicial'],PLAZA & JANES,España,Castellano,Inglés,512,26-10-2023
-Reckless n.5,"Narashima,Sachi",['Novelas gráficas'],PANINI ESPAÑA,España,Castellano,Castellano,144,01-10-2023
-Las guerras de Yavé,"Benítez, J. J.","['Fenómenos inexplicables/paranormales', 'Ovnis y seres extraterrestres']",Editorial Planeta,España,Castellano,Castellano,336,18-10-2023
-La rebelión de los buenos,"Santiago, Roberto","['Obra de misterio y suspense', 'Género policíaco y misterio', 'Ficción moderna y contemporanea', 'Obra de suspense político y judicial']",Editorial Planeta,España,Castellano,Castellano,720,14-06-2023
-Lecciones de química,"Garmus, Bonnie","['c. 1960\x96c. 1970', 'Estados Unidos de América', 'Ficción moderna y contemporanea']",SALAMANDRA,España,Castellano,Inglés,464,16-02-2023
-Éxtasis (Serie Crave 6),"Wolff, Tracy","['Fantasía romántica (juvenil)', 'Ficción general (infantil/juvenil)', 'Edad de interés: a partir de 14 años', 'Ficción moderna y contemporanea']",Editorial Planeta,España,Castellano,Inglés,768,04-10-2023
-QUIJOTE Liberado,"de Cervantes, Miguel",['Ficción clásica'],Blackie Books,España,Castellano,Castellano,832,18-10-2023
-Trilogía IREMONGER 1: Los secretos de Heap House,"Carey, Edward",['Ficción moderna y contemporanea'],Blackie Books,España,Castellano,Inglés,384,04-10-2023
-El retrato de casada,"O'Farrell, Maggie","['Italia', 'Irlanda', 'Ficción moderna y contemporanea']",Libros del Asteroide,España,Castellano,Inglés,400,13-03-2023
-ERIK VOGLER 1: LOS CRÍMENES DEL REY BLANCO,"Oses García, Beatriz","['FICCIÓN E HISTORIAS REALES INFANTILES Y JUVENILES', 'España', 'Español / Castellano', 'Edad de interés: a partir de 12 años']",Grupo EDEBÉ,España,Castellano,Castellano,144,30-06-2014
-Tan poca vida,"Yanagihara, Hanya",['Ficción moderna y contemporanea'],LUMEN,España,Castellano,Inglés,1008,15-09-2016
-Testigo de un tiempo incierto,"Solana, Javier","['Política y Gobierno', 'Historia']",Espasa,España,Castellano,Castellano,224,25-10-2023
-La red púrpura (La novia gitana 2),"Mola, Carmen",['Género policíaco y misterio'],DEBOLSILLO,España,Castellano,Castellano,432,17-06-2021
-Cucú. Calabaza,"Arrhenius, Ingela P.","['Halloween', 'ARTÍCULOS DE ESCRITORIO INFANTILES Y VARIOS', 'Aprendizaje temprano/conceptos de aprendizaje temprano', 'Libros y paquetes interactivos y de actividades', 'Álbumes ilustrados', 'Para niños c. 0-2 años', 'Libros para bebés']",Timun Mas Infantil,España,Castellano,Inglés,10,27-09-2023
-La veterinaria. Grandes sueños,"Lark, Sarah","['Sagas', 'Narrativa romántica histórica']",B,España,Castellano,Alemán,592,31-08-2023
-Querido capullo,"Despentes, Virginie","['Español / Castellano', 'Francia', 'Ficción moderna y contemporanea']",Random House,España,Castellano,Francés,264,14-09-2023
-Las reglas del ratoncito Pérez (Cuentos para contar entre dos),"Moreno, Eloy","['Edad de interés: a partir de 6 años', 'Cuentos tradicionales', 'Relatos de aventuras (infantil/juvenil)']",Nube de Tinta,España,Castellano,Castellano,48,07-09-2023
-Las garras del águila: una novela de Lisbeth Salander (Serie Millennium),"Smirnoff, Karin","['Obra de misterio y suspense', 'Género policíaco y misterio', 'Ficción moderna y contemporanea']",Ediciones Destino,España,Castellano,Sueco,592,30-08-2023
-Cómo vender una casa encantada,"Hendrix, Grady","['Ficción moderna y contemporanea', 'Ficción y temas afines', 'Cuentos de terror y fantasmas']",Minotauro,España,Castellano,Inglés,440,18-10-2023
-Biografía del silencio,"d'Ors, Pablo",['Ficción moderna y contemporanea'],Galaxia Gutenberg,España,Castellano,Castellano,112,12-02-2020
-Lunario 2024,"Gros, Michel","['Astrología', 'Jardinería', 'Agricultura orgánica', 'Horticultura', 'AGRICULTURA Y EXPLOTACIÓN AGROPECUARIA']",Artús Porta Manresa - Calendario Lunar,España,Castellano,Francés,130,20-07-2023
+                                     mm.",1,07-09-2022,18.00€
+El Monstruo de Colores. Doctor de emociones,"Llenas Serra, Anna / Llenas Serra, Anna","['Cuestiones personales y sociales: autoconocimiento y autoestima (infantil/juvenil)', 'Edad de interés: a partir de 3 años', 'Álbumes ilustrados']",Editorial Flamboyant,España,Castellano,Catalán,56,07-09-2023,16.95€
+Todo lo que me ha enseñado el amor,"Javierre, Luna","['Autoayuda y desarrollo personal', 'Poesía', 'Afirmación personal, motivación y autoestima']",Ediciones Martínez Roca,España,Castellano,Castellano,208,13-09-2023,16.90€
+Amanda Black 9 - El camino del ninja,"Gómez-Jurado, Juan / Montes, Bárbara","['Edad de interés: a partir de 8 años', 'Thriller (infantil/juvenil)', 'Fantasía y realismo mágico (infantil/juvenil)']",B de Blok,España,Castellano,Castellano,192,19-10-2023,14.96€
+"George Steiner, el huésped incómodo","Ordine, Nuccio",['Reportajes y colección de artículos periodísticos'],Acantilado,España,Castellano,Italiano,128,11-10-2023,12.00€
+El Príncipe de la Niebla,"Ruiz Zafón, Carlos",['Ficción moderna y contemporanea'],Booket,España,Castellano,Castellano,240,16-05-2007,9.95€
+Vive más,"Vázquez, Marcos","['Dietética y nutrición', 'Dietas y régimen alimenticio']",GRIJALBO,España,Castellano,Castellano,304,05-10-2023,20.90€
+Tu cuerpo es tuyo,"Serrano, Lucía","['Cuestiones personales y sociales: sexualidad y relaciones interpersonales (infantil/juvenil)', 'Cuestiones personales y sociales: cuerpo y salud (infantil/juvenil)', 'Álbumes ilustrados']",NubeOcho,España,Castellano,Castellano,40,11-10-2021,14.90€
+Todas las personas que fui,"Casas, Alfonso","['Novela gráfica y manga como obra de arte', 'Novelas gráficas']",Random Cómic,España,Castellano,Castellano,208,26-10-2023,22.95€
+ARTA en la jungla máxima (Arta Game 5),"Game, Arta","['Ficción general (infantil/juvenil)', 'Relatos de humor (infantil/juvenil)', 'Relatos de aventuras (infantil/juvenil)']",MONTENA,España,Castellano,Castellano,192,11-10-2023,19.95€
+"La Babilonia, 1580","Martín Gijón, Susana","['Ficción moderna y contemporanea', 'Aventura histórica', 'Misterios históricos']",ALFAGUARA,España,Castellano,Castellano,464,29-08-2023,21.90€
+Los chicos de Biloxi,"Grisham, John",['Obra de suspense político y judicial'],PLAZA & JANES,España,Castellano,Inglés,512,26-10-2023,23.90€
+Reckless n.5,"Narashima,Sachi",['Novelas gráficas'],PANINI ESPAÑA,España,Castellano,Castellano,144,01-10-2023,22.00€
+Las guerras de Yavé,"Benítez, J. J.","['Fenómenos inexplicables/paranormales', 'Ovnis y seres extraterrestres']",Editorial Planeta,España,Castellano,Castellano,336,18-10-2023,20.90€
+La rebelión de los buenos,"Santiago, Roberto","['Obra de misterio y suspense', 'Género policíaco y misterio', 'Ficción moderna y contemporanea', 'Obra de suspense político y judicial']",Editorial Planeta,España,Castellano,Castellano,720,14-06-2023,22.90€
+Lecciones de química,"Garmus, Bonnie","['c. 1960\x96c. 1970', 'Estados Unidos de América', 'Ficción moderna y contemporanea']",SALAMANDRA,España,Castellano,Inglés,464,16-02-2023,21.00€
+Éxtasis (Serie Crave 6),"Wolff, Tracy","['Fantasía romántica (juvenil)', 'Ficción general (infantil/juvenil)', 'Edad de interés: a partir de 14 años', 'Ficción moderna y contemporanea']",Editorial Planeta,España,Castellano,Inglés,768,04-10-2023,19.90€
+QUIJOTE Liberado,"de Cervantes, Miguel",['Ficción clásica'],Blackie Books,España,Castellano,Castellano,832,18-10-2023,29.90€
+Trilogía IREMONGER 1: Los secretos de Heap House,"Carey, Edward",['Ficción moderna y contemporanea'],Blackie Books,España,Castellano,Inglés,384,04-10-2023,23.90€
+El retrato de casada,"O'Farrell, Maggie","['Italia', 'Irlanda', 'Ficción moderna y contemporanea']",Libros del Asteroide,España,Castellano,Inglés,400,13-03-2023,23.95€
+ERIK VOGLER 1: LOS CRÍMENES DEL REY BLANCO,"Oses García, Beatriz","['FICCIÓN E HISTORIAS REALES INFANTILES Y JUVENILES', 'España', 'Español / Castellano', 'Edad de interés: a partir de 12 años']",Grupo EDEBÉ,España,Castellano,Castellano,144,30-06-2014,12.00€
+Tan poca vida,"Yanagihara, Hanya",['Ficción moderna y contemporanea'],LUMEN,España,Castellano,Inglés,1008,15-09-2016,24.90€
+Testigo de un tiempo incierto,"Solana, Javier","['Política y Gobierno', 'Historia']",Espasa,España,Castellano,Castellano,224,25-10-2023,20.90€
+La red púrpura (La novia gitana 2),"Mola, Carmen",['Género policíaco y misterio'],DEBOLSILLO,España,Castellano,Castellano,432,17-06-2021,10.95€
+Cucú. Calabaza,"Arrhenius, Ingela P.","['Halloween', 'ARTÍCULOS DE ESCRITORIO INFANTILES Y VARIOS', 'Aprendizaje temprano/conceptos de aprendizaje temprano', 'Libros y paquetes interactivos y de actividades', 'Álbumes ilustrados', 'Para niños c. 0-2 años', 'Libros para bebés']",Timun Mas Infantil,España,Castellano,Inglés,10,27-09-2023,10.95€
+La veterinaria. Grandes sueños,"Lark, Sarah","['Sagas', 'Narrativa romántica histórica']",B,España,Castellano,Alemán,592,31-08-2023,22.90€
+Querido capullo,"Despentes, Virginie","['Español / Castellano', 'Francia', 'Ficción moderna y contemporanea']",Random House,España,Castellano,Francés,264,14-09-2023,21.90€
+Las reglas del ratoncito Pérez (Cuentos para contar entre dos),"Moreno, Eloy","['Edad de interés: a partir de 6 años', 'Cuentos tradicionales', 'Relatos de aventuras (infantil/juvenil)']",Nube de Tinta,España,Castellano,Castellano,48,07-09-2023,15.95€
+Las garras del águila: una novela de Lisbeth Salander (Serie Millennium),"Smirnoff, Karin","['Obra de misterio y suspense', 'Género policíaco y misterio', 'Ficción moderna y contemporanea']",Ediciones Destino,España,Castellano,Sueco,592,30-08-2023,22.90€
+Cómo vender una casa encantada,"Hendrix, Grady","['Ficción moderna y contemporanea', 'Ficción y temas afines', 'Cuentos de terror y fantasmas']",Minotauro,España,Castellano,Inglés,440,18-10-2023,19.95€
+Biografía del silencio,"d'Ors, Pablo",['Ficción moderna y contemporanea'],Galaxia Gutenberg,España,Castellano,Castellano,112,12-02-2020,12.95€
+Lunario 2024,"Gros, Michel","['Astrología', 'Jardinería', 'Agricultura orgánica', 'Horticultura', 'AGRICULTURA Y EXPLOTACIÓN AGROPECUARIA']",Artús Porta Manresa - Calendario Lunar,España,Castellano,Francés,130,20-07-2023,9.26€
