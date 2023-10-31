@@ -31,36 +31,36 @@ Indie bookshops in 2020 and in 2023:
 ## Results
 ### Genres
 The proportion of non-fiction books amongst the bestsellers in amazon from 2020 to 2022 is slightly superior than the proportion of fiction books.
-![Alt text](image.png)
+![Alt text](figures\amazon_genres.png)
 Each year this relation has increased little by little.
-![Alt text](image-1.png)
+![Alt text](figures\amazon_genres_years.png)
 For independent spanish bookshops the proportion of fiction books is clearly superior.
-![Alt text](image-2.png)
+![Alt text](figures\Percentage_fictional_Spain.png)
 For 2020 and also for 2023.
-![Alt text](image-3.png)
+![Alt text](figures\Fictional_Spain_year.png)
 As you will see there are some missings for 2020, because the dataset used had some inclassificable subgenres or wrong values.
 
 However these difference, when we only look at top ten bestsellers, the interest for fiction books is common for all platforms 
-![Alt text](image-4.png)
-![Alt text](image-5.png)
+![Alt text](figures\Genres_top_ten_by_year_Amazon.png)
+![Alt text](figures\Genres_top_ten_by_year_Spain.png)
 
 ### Prices
 The prices of more than 50% bestsellers in amazon are between 5 and 15$
-![Alt text](image-6.png)
+![Alt text](figures\Distribution_of_prices_in_Amazon.png)
 In Amazon these prices haven't changed much during the last years, although they seem to get more expensive after time, but these differences don't look like they will be statistically significant.
-![Alt text](image-7.png)
+![Alt text](figures\Distribution_of_prices_by_year_in_Amazon.png)
 Prices in independent bookshops from Spain seem to be more expensive than those from Amazon.
-![Alt text](image-8.png)
+![Alt text](figures\Distribution_of_prices_in_Spain.png)
 
 ### Spain
 #### Editorials
 The editorials behind the bestsellers vary across years.
-![Alt text](image-13.png)
-![Alt text](image-14.png)
+![Alt text](figures\Top_10_editorials_Spain_2020.png)
+![Alt text](figures\Top_10_editorials_Spain_2023.png)
 
 #### Foreign publications
 It seems that there is a progression in the consumption of books written by foreign authors
-![Alt text](image-15.png)
+![Alt text](figures\Countries_bestselling_Spain.png)
 
 
 ## Conclusion 
